@@ -65,4 +65,15 @@ print(x, y)
 import math
 
 print(math.pi)
+raw_s1 = r'r:\///dasd'
+print(raw_s1)
 
+multiline = \
+'''
+df
+sdf
+sdf
+sdf
+'''
+
+print(multiline)
