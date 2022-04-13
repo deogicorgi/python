@@ -11,4 +11,5 @@
 ### History
 
 2022.04.01 - 1. print - link : [print.py](print.py)  
-2022.04.01 - 2. variable - link : [variable.py](variable.py)
+2022.04.01 - 2. variable - link : [variable.py](variable.py)  
+2022.04.13 - 3. datatype - link : [datatype.py](datatype.py)
